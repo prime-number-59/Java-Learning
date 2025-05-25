@@ -1,2 +1,2 @@
 # Java-Learning
-- day 001: I create the respository to record my Java learning.
+- Day 001: I create the repository to record my Java learning.
